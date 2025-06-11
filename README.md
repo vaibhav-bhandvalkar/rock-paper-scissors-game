@@ -22,7 +22,13 @@ Rock_Paper_Scessior Game/
 
  Screenshot :
 
-[Game Screenshot](images/GameScreenshots.png)
+[Game Screenshot](images/Game_Screenshots/Screenshot%202025-06-10%20135426.png)
+
+[Game Screenshot](images/Game_Screenshots/Screenshot%202025-06-10%20135517.png)
+
+[Game Screenshot](images/Game_Screenshots/Screenshot%202025-06-10%20135556.png)
+
+
 
 ---
 
